@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aman-junaid
 - 👀 I’m interested in java, android, PLSql development
-- 🌱 I’m currently learning create Android Apps
+- 🌱 I’m currently learning to create Android Apps and code optimisation
 - 💞️ I’m looking to collaborate on java projects based on core java
 - 📫 Reach me at amaan.wamiq@gmail.com
 
